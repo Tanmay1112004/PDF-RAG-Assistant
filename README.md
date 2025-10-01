@@ -14,6 +14,32 @@
 
 </div>
 
+## 🎥 Application Preview
+
+### Modern User Interface
+<div align="center">
+  
+![Main Interface](https://github.com/Tanmay1112004/PDF-RAG-Assistant/blob/main/screenshots/Screenshot%202025-10-01%20185802.png)
+*🌐 Beautiful modern interface with gradient design and intuitive layout*
+
+</div>
+
+### Interactive Chat Experience
+<div align="center">
+
+![Chat Interface](https://github.com/Tanmay1112004/PDF-RAG-Assistant/blob/main/screenshots/Screenshot%202025-10-01%20193146.png)
+*💬 Color-coded chat messages with user (purple) and assistant (orange) responses*
+
+</div>
+
+### Document Processing & Analysis
+<div align="center">
+
+![Document Analysis](https://github.com/Tanmay1112004/PDF-RAG-Assistant/blob/main/screenshots/Screenshot%202025-10-01%20193220.png)
+*📊 Real-time document processing with source tracking and intelligent responses*
+
+</div>
+
 ## 🚀 Overview
 
 PDF AI Assistant is a cutting-edge web application that leverages advanced AI to transform static PDF documents into dynamic, interactive knowledge bases. Built with modern technologies and featuring a beautiful, intuitive interface, this tool enables users to have natural conversations with their documents and get instant, accurate answers.
@@ -239,7 +265,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ```bash
 # 1. Fork the repository
 # 2. Clone your fork
-git clone https://github.com/yourusername/pdf-ai-assistant.git
+git clone https://github.com/Tanmay1112004/pdf-ai-assistant.git
 
 # 3. Create virtual environment
 python -m venv venv
@@ -260,64 +286,8 @@ pip install -r requirements-dev.txt
 - [Troubleshooting](docs/TROUBLESHOOTING.md)
 
 ### Community
-- [GitHub Discussions](https://github.com/yourusername/pdf-ai-assistant/discussions)
-- [Issue Tracker](https://github.com/yourusername/pdf-ai-assistant/issues)
+- [GitHub Discussions](https://github.com/Tanmay1120004/pdf-ai-assistant/discussions)
+- [Issue Tracker](https://github.com/Tanmay1112004/pdf-ai-assistant/issues)
 
-### Professional Support
-For enterprise support and custom implementations, contact: **support@yourapp.com**
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **Groq** for providing high-speed AI inference
-- **Streamlit** for the excellent web framework
-- **LangChain** for AI orchestration capabilities
-- **HuggingFace** for embedding models
-
----
-
-<div align="center">
-
-### 🚀 Ready to Transform Your Document Experience?
-
-[![Deploy](https://img.shields.io/badge/Deploy_Now-Click_Here-blue?style=for-the-badge&logo=rocket)](https://your-app-url.streamlit.app)
-[![Demo Video](https://img.shields.io/badge/Watch_Demo-Video-red?style=for-the-badge&logo=youtube)](https://youtube.com/your-demo)
-
-**⭐ Star this repository if you find it helpful!**
-
-</div>
-
----
-
-## 👨‍💻 About the Developer
-
-**John Doe**  
-*Senior AI Engineer & Full Stack Developer*
-
-- 🎓 Master's in Computer Science, AI Specialization
-- 💼 5+ years experience in AI/ML development
-- 🏆 Multiple awards in AI innovation
-- 📧 Contact: john.doe@email.com
-- 🔗 Portfolio: [johndoe.dev](https://johndoe.dev)
-- 💼 LinkedIn: [John Doe](https://linkedin.com/in/johndoe)
-
-### Technical Expertise
-- **AI/ML**: Natural Language Processing, Computer Vision, Deep Learning
-- **Backend**: Python, FastAPI, Node.js, Database Design
-- **Frontend**: React, Streamlit, Modern CSS, UX Design
-- **Cloud**: AWS, Azure, Docker, Kubernetes
-- **Tools**: Git, CI/CD, Agile Methodology
-
----
-
-<div align="center">
-
-**Built with ❤️ using Streamlit, Python, and Groq AI**
-
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
-
-</div>
+Professional Support
+For enterprise support and custom implementations, contact: tanmaykshirsagar001@gmail.com
