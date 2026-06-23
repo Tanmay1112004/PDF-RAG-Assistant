@@ -98,7 +98,7 @@ Before running the application, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pdf-ai-assistant.git
+git clone https://github.com//pdf-ai-assistant.git
 cd pdf-ai-assistant
 ```
 
