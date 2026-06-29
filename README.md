@@ -98,7 +98,7 @@ Before running the application, ensure you have:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Tanmay1112004/pdf-ai-assistant.git
+git clone https://github.com//pdf-ai-assistant.git
 cd pdf-ai-assistant
 ```
 
@@ -291,3 +291,5 @@ pip install -r requirements-dev.txt
 
 Professional Support
 For enterprise support and custom implementations, contact: tanmaykshirsagar001@gmail.com
+
+---
